@@ -1,0 +1,10 @@
+{
+  "name": "explore-min",
+  "description": "Adds the track that plays in the opening demo of Petscop 14.",
+  "author": "limineow",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
